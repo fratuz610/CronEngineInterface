@@ -1,0 +1,42 @@
+/* 
+    Document   : application
+    Created on : Nov 15, 2012, 4:17:39 PM
+    Author     : admin
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+h1 {
+  padding-left:5px;
+}
+
+.forty-width {
+    width:40%;
+}
+
+.fifty-width {
+  width: 50%;
+}
+
+.centered { 
+  margin:0 auto;
+}
+
+.float-right {
+  float:right;
+}
+
+.clickable {
+  cursor: pointer;
+}
+
+.controls-non-input {
+  padding-top:5px;
+  vertical-align: middle;
+}
+
+.display-inline {
+  display:inline;
+}
+
+
